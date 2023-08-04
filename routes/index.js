@@ -1,7 +1,6 @@
 const express = require('express');
 const router = express.Router();
 const indexController = require('../controllers/indexController');
-const signatureController = require('../controllers/signatureController');
 const checkQRController = require('../controllers/checkQRController');
 const multer = require('multer');
 const path = require('path');
@@ -30,10 +29,6 @@ router.post('/uploadCheckText',[loggerMiddleware], checkQRController.uploadCheck
 router.post('/uploadCheckImage',[loggerMiddleware], upload.single('img'), checkQRController.uploadCheckImage);
 router.post('/uploadText', [loggerMiddleware],indexController.uploadText);
 router.post('/uploadImage', [loggerMiddleware], upload.single('img'), indexController.uploadImage);
-
-
-router.get('/verify',[loggerMiddleware], signatureController.signatureVerify);
-router.get('/sidebar',[loggerMiddleware], signatureController.testSidebar);
 
 /* GET Logs. */
 router.get('/logs', [loggerMiddleware], (req, res) => {
