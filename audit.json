@@ -1,0 +1,61 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1689233333555,
+            "name": "C:\\Users\\info\\Desktop\\Docker\\emvqrcode\\logs\\access-20230713.log",
+            "hash": "d3cb9d91d38a77113e9b00d0e5c10f93"
+        },
+        {
+            "date": 1689233443905,
+            "name": "C:\\Users\\info\\Desktop\\Docker\\emvqrcode\\logs\\access-20230713.log.20230713",
+            "hash": "f324dda45597f5f7d22c4247a83a613f"
+        },
+        {
+            "date": 1689233811048,
+            "name": "C:\\Users\\info\\Desktop\\Docker\\emvqrcode\\utility\\logs\\access-20230713.log",
+            "hash": "406aec8b13d44822c7a3cf0950ee7e6e"
+        },
+        {
+            "date": 1689234005112,
+            "name": "C:\\Users\\info\\Desktop\\Docker\\logs\\access-20230713.log",
+            "hash": "20535553f7927c8454401f89adfce126"
+        },
+        {
+            "date": 1689305160546,
+            "name": "C:\\Users\\info\\Desktop\\Docker\\emvqrcode\\logs\\access-20230714.log",
+            "hash": "a32055a044e8e1602a71313cb3afb97c"
+        },
+        {
+            "date": 1689670031472,
+            "name": "C:\\Users\\info\\Desktop\\Docker\\emvqrcode\\logs\\access-20230718.log",
+            "hash": "26137fa4e2789f3fac9e0a131c2a84b0"
+        },
+        {
+            "date": 1689732551387,
+            "name": "C:\\Users\\info\\Desktop\\Docker\\emvqrcode\\logs\\access-20230719.log",
+            "hash": "cb52f520c14d5d80aa1cb05b5ea68925"
+        },
+        {
+            "date": 1689820546233,
+            "name": "C:\\Users\\info\\Desktop\\Docker\\emvqrcode\\logs\\access-20230720.log",
+            "hash": "979d22b9f1dc567f1f64116b8a4ca392"
+        },
+        {
+            "date": 1689911618247,
+            "name": "C:\\Users\\info\\Desktop\\Docker\\emvqrcode\\logs\\access-20230721.log",
+            "hash": "5af3d0bab294c7cc4794c043e18cc346"
+        },
+        {
+            "date": 1690163396105,
+            "name": "C:\\Users\\info\\Desktop\\Docker\\emvqrcode\\logs\\access-20230724.log",
+            "hash": "1ccbf944a1db242d77893547ec4da09f"
+        }
+    ]
+}

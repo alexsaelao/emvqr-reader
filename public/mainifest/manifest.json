@@ -1,0 +1,25 @@
+{
+    "short_name": "Lao QR Reader",
+    "name": "Lao QR Reader",
+    "icons": [
+        {
+            "src": "../images/icon.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "../images/icon.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#bbf7d0",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "scope": "/",
+    "theme_color": "#bbf7d0",
+    "description": "Demo test Application PWA"
+}

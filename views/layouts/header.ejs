@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+  <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+  <link rel="manifest" href="mainifest/manifest.json">
+  <link rel="icon" type="image/x-icon" href="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500">
+  <link rel='stylesheet' href='/stylesheets/style.css' />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.7.0/flowbite.min.css" rel="stylesheet" />
+  <title>LAO QR Reader</title>
+</head>
+
+<body>
+  <div class="min-h-full">
+    <nav class="fixed top-0 left-0 z-20 w-full bg-gray-900 border-b border-gray-600 dark:bg-gray-900 dark:border-gray-600">
+      <div class="flex flex-wrap items-center justify-between max-w-screen-xl p-4 mx-auto sm:px-6 lg:px-8">
+        <a href="/" class="flex items-center">
+          <img src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500" class="h-8 mr-3" alt="Flowbite Logo">
+          <span class="self-center text-xl font-semibold text-white whitespace-nowrap">QR Reader</span>
+        </a>
+        <div class="flex md:order-2">
+          <button data-collapse-toggle="navbar-sticky" type="button" class="inline-flex items-center justify-center w-10 h-10 p-2 text-sm text-gray-400 rounded-lg md:hidden hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-600 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-sticky" aria-expanded="false">
+            <span class="sr-only">Open main menu</span>
+            <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15" />
+            </svg>
+          </button>
+        </div>
+        <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
+          <ul class="flex flex-col p-4 mt-4 space-y-2 font-medium bg-gray-800 border border-gray-700 rounded-lg md:p-0 md:flex-row md:space-y-0 md:space-x-2 md:mt-0 md:border-0 md:bg-gray-900 dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+            <li>
+              <a href="/" <% if (active === '' || active === 'uploadText') { %> class="block py-2 pl-3 pr-4 text-white bg-indigo-700 rounded-lg md:bg-indigo-700 hover:bg-indigo-900 md:text-white md:py-1 md:dark:text-white" aria-current="page"<% } else { %> class="block py-2 pl-3 pr-4 text-white rounded-lg hover:bg-indigo-700 md:hover:bg-indigo-700 md:hover:text-white md:py-1 md:dark:hover:text-white dark:text-white dark:hover:bg-indigo-700 dark:hover:text-white md:dark:hover:bg-indigo-700" <% } %> >QR Playload</a>
+            </li>
+            <li>
+              <a href="/image" <% if (active === 'image' || active === 'uploadImage') { %> class="block py-2 pl-3 pr-4 text-white bg-indigo-700 rounded-lg md:bg-indigo-700 hover:bg-indigo-900 md:text-white md:py-1 md:dark:text-white" <% } else { %> class="block py-2 pl-3 pr-4 text-white rounded-lg hover:bg-indigo-700 md:hover:bg-indigo-700 md:hover:text-white md:py-1 md:dark:hover:text-white dark:text-white dark:hover:bg-indigo-700 dark:hover:text-white md:dark:hover:bg-indigo-700" <% } %> > QR Image</a>
+            </li>
+            <li>
+              <a href="/checkText" <% if (active === 'checkText' || active === 'uploadCheckText') { %> class="block py-2 pl-3 pr-4 text-white bg-indigo-700 rounded-lg md:bg-indigo-700 hover:bg-indigo-900 md:text-white md:py-1 md:dark:text-white" <% } else { %> class="block py-2 pl-3 pr-4 text-white rounded-lg hover:bg-indigo-700 md:hover:bg-indigo-700 md:hover:text-white md:py-1 md:dark:hover:text-white dark:text-white dark:hover:bg-indigo-700 dark:hover:text-white md:dark:hover:bg-indigo-700" <% } %> > QR Playload Check</a>
+            </li>
+            <li>
+              <a href="/checkImage" <% if (active === 'checkImage' || active === 'uploadCheckImage') { %> class="block py-2 pl-3 pr-4 text-white bg-indigo-700 rounded-lg md:bg-indigo-700 hover:bg-indigo-900 md:text-white md:py-1 md:dark:text-white" <% } else { %> class="block py-2 pl-3 pr-4 text-white rounded-lg hover:bg-indigo-700 md:hover:bg-indigo-700 md:hover:text-white md:py-1 md:dark:hover:text-white dark:text-white dark:hover:bg-indigo-700 dark:hover:text-white md:dark:hover:bg-indigo-700" <% } %> > QR Image Check</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <header class="mt-8 bg-white">
+      <div class="px-4 py-6 mx-auto max-w-7xl sm:px-6 lg:px-8">
+        <!-- <h1 class="text-3xl font-bold tracking-tight text-gray-900">LAO QR Reader</h1> -->
+      </div>
+    </header>
+    <main class="p-4 lg:p-0">
+      <div class="py-6 mx-auto mt-6 bg-gray-200 rounded-lg max-w-7xl sm:px-6 lg:px-6 drop-shadow-lg">

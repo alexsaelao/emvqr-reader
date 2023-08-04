@@ -1,0 +1,479 @@
+<div class="col-span-full">
+  <div class="flex flex-col justify-start mx-4 mt-0 lg:flex-row lg:items-center item-start lg:mx-0 gap-x-2">
+    <%if (message !==null ) { %>
+    <table class="p-12 mb-2 mr-4 text-sm font-medium text-left text-gray-900 w-fit dark:text-gray-900 lg:mb-0">
+      <thead class="text-xs font-black bg-white text-gray-950 dark:text-gray-950 dark:bg-white">
+        <tr class="rounded-lg">
+          <th scope="col" class="w-16 px-2 py-1 text-white bg-gray-800 rounded-l-lg">
+            RESULT
+          </th>
+          <%if (message==='Success' ) { %>
+          <th scope="col" class="px-2 py-1 bg-green-300 rounded-r-lg">
+            <%= message %>
+          </th>
+          <% } else if (message==='undefined' ){ %>
+          <th scope="col" class="px-2 py-1 bg-red-300 rounded-r-lg">
+            <%= message %>
+          </th>
+          <% } else if (message==='QR CHECKSUM INVALID' ){ %>
+          <th scope="col" class="px-2 py-1 bg-red-300 rounded-r-lg">
+            <%= message %>
+          </th>
+          <% } %>
+        </tr>
+      </thead>
+      </tbody>
+    </table>
+    <% }  else {%>
+    <label class="block text-sm font-medium leading-6 text-gray-900">RESULT</label>
+    <% } %>
+    <%if (bank !==null ) { %>
+    <table class="p-12 mb-2 mr-4 text-sm font-medium text-left text-gray-900 w-fit dark:text-gray-900 lg:mb-0">
+      <thead class="text-xs font-black uppercase bg-white text-gray-950 dark:text-gray-950 dark:bg-white">
+        <tr class="rounded-lg">
+          <th scope="col" class="w-16 px-2 py-1 text-white bg-gray-800 rounded-l-lg">
+            BANK
+          </th>
+          <%if (bank !== undefined ) { %>
+          <th scope="col" class="px-2 py-1 bg-green-300 rounded-r-lg">
+            <%= bank %>
+          </th>
+          <% } else { %>
+          <th scope="col" class="px-2 py-1 bg-red-300 rounded-r-lg">
+            undefined
+          </th>
+          <% } %>
+        </tr>
+      </thead>
+      </tbody>
+    </table>
+    <% } %>
+    <%if (crc_result !==null ) { %>
+    <table class="p-12 mb-2 mr-4 text-sm font-medium text-left text-gray-900 w-fit dark:text-gray-900 lg:mb-0">
+      <thead class="text-xs font-black uppercase bg-white text-gray-950 dark:text-gray-950 dark:bg-white">
+        <tr class="rounded-lg">
+          <th scope="col" class="w-16 px-2 py-1 text-white bg-gray-800 rounded-l-lg">
+            CRC
+          </th>
+          <%if (crc_result===true ) { %>
+          <th scope="col" class="px-2 py-1 bg-green-300">
+            <%= crc_result %>
+          </th>
+          <th scope="col" class="px-2 py-1 bg-green-300 rounded-r-lg">
+            <%= crc_value %>
+          </th>
+          <% } else { %>
+          <th scope="col" class="px-2 py-1 bg-red-300">
+            <%= crc_result %>
+          </th>
+          <th scope="col" class="px-2 py-1 bg-red-300 rounded-r-lg">
+            <%= crc_value %>
+          </th>
+          <% } %>
+        </tr>
+      </thead>
+      </tbody>
+    </table>
+    <% } %>
+  </div>
+  <div class="mx-4 mt-2 lg:mx-0">
+    <%if (emvdata !==null ) { %>
+    <div class="relative overflow-x-auto rounded-lg shadow-lg">
+
+      <table class="w-full p-12 text-sm font-medium text-left text-gray-900 dark:text-gray-900">
+        <thead class="text-xs font-black uppercase bg-white text-gray-950 dark:text-gray-950 dark:bg-white">
+          <tr>
+            <th scope="col" class="px-6 py-4">
+              TAG
+            </th>
+            <th scope="col" class="px-6 py-4">
+              LENGTH
+            </th>
+            <th scope="col" class="px-6 py-4">
+              VALUE
+            </th>
+            <th scope="col" class="px-6 py-4">
+              NAME
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="<%= emvdata['00'] && emvdata['00']?.data === '01' ? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              00
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['00']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['00']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Payload Format Indicator
+            </td>
+          </tr>
+            <tr class="<%= emvdata['01'] && ((emvdata['01']?.data === '11' && qr_type === 11) || (emvdata['01']?.data === '12' && qr_type === 12))? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              01
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['01']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['01']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Point of Initiation Method
+            </td>
+          </tr>
+          <tr class="<%= emvdata['38'] ? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              38
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['38']?.len %>
+            </td>
+            <td class="px-6 py-0">
+
+            </td>
+            <td class="px-6 py-0">
+              Merchant Account Information
+            </td>
+          </tr>
+          <tr class="<%= emvdata['38']?.data['00'] && emvdata['38']?.data['00']?.data === 'A005266284662577' ? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              00
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['38']?.data['00']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['38']?.data['00']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              AID
+            </td>
+          </tr>
+          <tr class="<%= emvdata['38']?.data['01'] ? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              01
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['38']?.data['01']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['38']?.data['01']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              IIN
+            </td>
+          </tr>
+          <tr class="<%= emvdata['38']?.data['02'] && ((emvdata['38']?.data['02']?.data === '001' && qr_group === 'personal') || (emvdata['38']?.data['02']?.data === '002' && qr_group === 'merchant'))? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              02
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['38']?.data['02']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['38']?.data['02']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Payment type
+            </td>
+          </tr>
+          </tr>
+          <tr class="<%= emvdata['38']?.data['03'] ? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              03
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['38']?.data['03']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['38']?.data['03']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Receiver ID
+            </td>
+          </tr>
+          <% if(emvdata['52'] || qr_group === 'merchant') { %>
+          <tr class="<%= emvdata['52'] && qr_group === 'merchant' ? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              52
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['52']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['52']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Merchant Category Code
+            </td>
+          </tr>
+          <% } %>
+          </tr>
+          <tr class="<%= emvdata['53'] && emvdata['53']?.data === '418' ? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              53
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['53']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['53']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Transaction Currency
+            </td>
+          </tr>
+          <% if(emvdata['54'] || qr_type === 12) { %>
+          <tr class="<%= emvdata['54'] && qr_type === 12 ? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              54
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['54']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['54']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Transaction Amount
+            </td>
+          </tr>
+          <% } %>
+          <tr class="<%= emvdata['58'] && emvdata['58']?.data === 'LA' ? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              58
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['58']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['58']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Country Code
+            </td>
+          </tr>
+          <% if(emvdata['59']) { %>
+          <tr class="bg-white dark:bg-white">
+            <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              59
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['59']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['59']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Merchant Name
+            </td>
+          </tr>
+          <% } %>
+          <% if(emvdata['60'] || qr_group === 'merchant') { %>
+          <tr class="<%= emvdata['60'] && qr_group === 'merchant' ? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              60
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['60']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['60']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Merchant City
+            </td>
+          </tr>
+          <% } %>
+          <% if(emvdata['62']) { %>
+          <tr class="bg-white dark:bg-white">
+            <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              62
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.len %>
+            </td>
+            <td class="px-6 py-0">
+
+            </td>
+            <td class="px-6 py-0">
+              Additional Data Field Template
+            </td>
+          </tr>
+          <% if(emvdata['62']?.data['01']) { %>
+          <tr class="bg-white dark:bg-white">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              01
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['01']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['01']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Bill Number
+            </td>
+          </tr>
+          <% } %>
+          <% if(emvdata['62']?.data['02']) { %>
+          <tr class="bg-white dark:bg-white">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              02
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['02']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['02']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Mobile Number
+            </td>
+          </tr>
+          <% } %>
+          <% if(emvdata['62']?.data['03']) { %>
+          <tr class="bg-white dark:bg-white">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              03
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['03']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['03']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Store Label
+            </td>
+          </tr>
+          <% } %>
+          <% if(emvdata['62']?.data['04']) { %>
+          <tr class="bg-white dark:bg-white">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              04
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['04']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['04']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Loyalty Number
+            </td>
+          </tr>
+          <% } %>
+          <% if(emvdata['62']?.data['05']) { %>
+          <tr class="bg-white dark:bg-white">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              05
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['05']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['05']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Reference Label
+            </td>
+          </tr>
+          <% } %>
+          <% if(emvdata['62']?.data['06']) { %>
+          <tr class="bg-white dark:bg-white">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              06
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['06']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['06']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Customer Label
+            </td>
+          </tr>
+          <% } %>
+          <% if(emvdata['62']?.data['07']) { %>
+          <tr class="bg-white dark:bg-white">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              07
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['07']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['07']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Terminal Label
+            </td>
+          </tr>
+          <% } %>
+          <% if(emvdata['62']?.data['08']) { %>
+          <tr class="bg-white dark:bg-white">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              08
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['08']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['08']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Purpose of Transaction
+            </td>
+          </tr>
+          <% } %> 
+          <% if(emvdata['62']?.data['09']) { %>
+          <tr class="bg-white dark:bg-white">
+            <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              09
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['09']?.len %>
+            </td>
+            <td class="px-6 py-0">
+              <%= emvdata['62']?.data['09']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              Additional Consumer Data Request
+            </td>
+          </tr>
+          <% } %>
+          <% } %>
+          <tr class="<%= emvdata['63'] && crc_result ? 'bg-white dark:bg-white' : 'bg-red-300 dark:bg-red-300' %>">
+            <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+              63
+            </th>
+            <td class="px-6 py-0">
+              <%= emvdata['63']?.len %>
+            </td>
+            <td class="px-6 py-0">
+
+              <%= emvdata['63']?.data %>
+            </td>
+            <td class="px-6 py-0">
+              CRC
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+    </div>
+    <% } else { %>
+
+    <div class="relative overflow-x-auto bg-white rounded-lg shadow-lg h-52 ">
+    </div>
+    <% } %>
+  </div>
+
+</div>

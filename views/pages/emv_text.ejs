@@ -1,0 +1,36 @@
+<%- include('../layouts/header_with_sidebar.ejs') %>
+<div class="flex flex-col gap-4 lg:flex-row lg:gap-4">
+  <div class="basis-2/5">
+    <form action="/uploadText" method="post">
+      <div class="px-4 space-y-2 lg:px-0">
+        <div class="flex items-center justify-end mt-0 lg:mt-2 gap-x-2">
+          <a href="/" class="px-3 py-2 text-sm font-semibold text-white bg-red-600 rounded-lg shadow-sm hover:bg-red-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-500">CLEAR</a>
+          <button type="submit" class="px-3 py-2 text-sm font-semibold text-white bg-indigo-600 rounded-lg shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">SCAN NOW</button>
+        </div>
+        <div class="pb-0 lg:pb-12">
+          <div class="col-span-full">
+            <label for="about" class="block text-sm font-medium text-gray-900 leading-2">QR Playload</label>
+            <div class="mt-2">
+              <input required type="text" name="data_emv" id="large-input" class="block w-full p-4 text-gray-900 border-0 rounded-lg bg-gray-50 sm:text-md focus:ring-blue-300 focus:border-blue-300 dark:bg-white dark:placeholder-gray-400 dark:text-gray-900 dark:focus:ring-blue-300 dark:focus:border-blue-300 placeholder:italic placeholder:text-slate-400 sm:text-sm sm:leading-6" placeholder="Enter QR Playload">
+
+              <%if (playload !==null ) { %>
+              <textarea id="about" name="about" rows="5" class="block w-full mt-4 rounded-lg border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6 placeholder:italic placeholder:text-slate-400 focus:outline-none focus:border-sky-500 focus:ring-sky-300 focus:ring-1" disabled><%= playload %></textarea>
+              <% } %>
+            </div>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div class="basis-3/5">
+    <div class="space-y-2 lg:pt-12">
+      <div class="pb-12">
+
+        <%- include('./emv_result.ejs') %>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<%- include('../layouts/footer_with_sidebar.ejs') %>

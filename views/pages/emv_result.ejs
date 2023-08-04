@@ -1,0 +1,161 @@
+<div class="col-span-full">
+    <div class="flex flex-col justify-start mx-4 mt-0 lg:flex-row lg:items-center item-start lg:mx-0 gap-x-2">
+      <%if (message !==null ) { %>
+      <table class="p-12 mb-2 mr-4 text-sm font-medium text-left text-gray-900 w-fit dark:text-gray-900 lg:mb-0">
+        <thead class="text-xs font-black bg-white text-gray-950 dark:text-gray-950 dark:bg-white">
+          <tr class="rounded-lg">
+            <th scope="col" class="w-16 px-2 py-1 text-white bg-gray-800 rounded-l-lg">
+              RESULT
+            </th>
+            <%if (message==='Success' ) { %>
+            <th scope="col" class="px-2 py-1 bg-green-300 rounded-r-lg">
+              <%= message %>
+            </th>
+            <% } else if (message==='undefined' ){ %>
+            <th scope="col" class="px-2 py-1 bg-red-300 rounded-r-lg">
+              <%= message %>
+            </th>
+            <% } else if (message==='QR CHECKSUM INVALID' ){ %>
+            <th scope="col" class="px-2 py-1 bg-red-300 rounded-r-lg">
+              <%= message %>
+            </th>
+            <% } %>
+          </tr>
+        </thead>
+        </tbody>
+      </table>
+      <% }  else {%>
+      <label class="block text-sm font-medium leading-6 text-gray-900">RESULT</label>
+      <% } %>
+      <%if (bank !==null ) { %>
+      <table class="p-12 mb-2 mr-4 text-sm font-medium text-left text-gray-900 w-fit dark:text-gray-900 lg:mb-0">
+        <thead class="text-xs font-black uppercase bg-white text-gray-950 dark:text-gray-950 dark:bg-white">
+          <tr class="rounded-lg">
+            <th scope="col" class="w-16 px-2 py-1 text-white bg-gray-800 rounded-l-lg">
+              BANK
+            </th>
+            <%if (bank !== undefined ) { %>
+            <th scope="col" class="px-2 py-1 bg-green-300 rounded-r-lg">
+              <%= bank %>
+            </th>
+            <% } else { %>
+              <th scope="col" class="px-2 py-1 bg-red-300 rounded-r-lg">
+                undefined
+              </th>
+            <% } %>
+          </tr>
+        </thead>
+        </tbody>
+      </table>
+      <% } %>
+      <%if (crc_result !==null ) { %>
+      <table class="p-12 mb-2 mr-4 text-sm font-medium text-left text-gray-900 w-fit dark:text-gray-900 lg:mb-0">
+        <thead class="text-xs font-black uppercase bg-white text-gray-950 dark:text-gray-950 dark:bg-white">
+          <tr class="rounded-lg">
+            <th scope="col" class="w-16 px-2 py-1 text-white bg-gray-800 rounded-l-lg">
+              CRC
+            </th>
+            <%if (crc_result===true ) { %>
+            <th scope="col" class="px-2 py-1 bg-green-300">
+              <%= crc_result %>
+            </th>
+            <th scope="col" class="px-2 py-1 bg-green-300 rounded-r-lg">
+              <%= crc_value %>
+            </th>
+            <% } else { %>
+            <th scope="col" class="px-2 py-1 bg-red-300">
+              <%= crc_result %>
+            </th>
+            <th scope="col" class="px-2 py-1 bg-red-300 rounded-r-lg">
+              <%= crc_value %>
+            </th>
+            <% } %>
+          </tr>
+        </thead>
+        </tbody>
+      </table>
+      <% } %>
+    </div>
+    <div class="mx-4 mt-2 lg:mx-0">
+      <%if (emvdata !==null ) { %>
+      <div class="relative overflow-x-auto rounded-lg shadow-lg">
+
+        <table class="w-full p-12 text-sm font-medium text-left text-gray-900 dark:text-gray-900">
+          <thead class="text-xs font-black uppercase bg-white text-gray-950 dark:text-gray-950 dark:bg-white">
+            <tr>
+              <th scope="col" class="px-6 py-4">
+                TAG
+              </th>
+              <th scope="col" class="px-6 py-4">
+                LENGTH
+              </th>
+              <th scope="col" class="px-6 py-4">
+                VALUE
+              </th>
+              <th scope="col" class="px-6 py-4">
+                NAME
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <% for (const [key, value] of Object.entries(emvdata)) { %>
+            <%   if (typeof(value.data) === 'object') {  %>
+            <tr class="bg-white dark:bg-white">
+              <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+                <%= key %>
+              </th>
+              <td class="px-6 py-0">
+                <%= value.len %>
+              </td>
+              <td class="px-6 py-0">
+
+              </td>
+              <td class="px-6 py-0">
+                <%= value.name %>
+              </td>
+            </tr>
+            <% for (const [key2, value2] of Object.entries(value.data)) { %>
+            <tr class="bg-white dark:bg-white">
+              <th scope="row" class="px-10 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+                <%= key2 %>
+              </th>
+              <td class="px-6 py-0">
+                <%= value2.len %>
+              </td>
+              <td class="px-6 py-0">
+                <%= value2.data%>
+              </td>
+              <td class="px-6 py-0">
+                <%= value2.name %>
+              </td>
+            </tr>
+            <% } %>
+            <% } else { %>
+            <tr class="bg-white dark:bg-white">
+              <th scope="row" class="px-6 py-2 font-medium text-gray-900 whitespace-nowrap dark:gray-950">
+                <%= key %>
+              </th>
+              <td class="px-6 py-0">
+                <%= value.len %>
+              </td>
+              <td class="px-6 py-0">
+                <%= value.data%>
+              </td>
+              <td class="px-6 py-0">
+                <%= value.name %>
+              </td>
+            </tr>
+            <% } %>
+            <% } %>
+          </tbody>
+        </table>
+
+      </div>
+      <% } else { %>
+
+      <div class="relative overflow-x-auto bg-white rounded-lg shadow-lg h-52 ">
+      </div>
+      <% } %>
+    </div>
+
+  </div>

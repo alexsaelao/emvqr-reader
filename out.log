@@ -1,0 +1,455 @@
+2023-07-24 09:14:53 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:14:53 - HTTP REQUEST FROM - http://175.17.5.27 - GET / - 12.015 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:14:53 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 2.264 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:14:53 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 1.513 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:14:53 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 1.533 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:03 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:15:03 - HTTP REQUEST FROM - http://175.17.5.27 - GET /image - 8.133 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:03 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 0.697 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:03 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 2.502 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:03 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 2.013 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:06 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:15:06 - HTTP REQUEST FROM - http://175.17.5.27 - GET /checkText - 7.733 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:06 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 0.699 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:06 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 0.961 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:06 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 1.145 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:07 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:15:07 - HTTP REQUEST FROM - http://175.17.5.27 - GET /checkImage - 7.550 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:07 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 1.077 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:07 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 1.091 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:07 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 0.985 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:09 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:15:09 - HTTP REQUEST FROM - http://175.17.5.27 - GET /image - 5.877 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:09 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 0.673 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:09 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 0.558 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:09 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 0.348 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:12 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:15:12 - HTTP REQUEST FROM - http://175.17.5.27 - GET /checkText - 6.281 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:12 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 0.694 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:12 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 1.225 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:12 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 1.374 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:13 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:15:13 - HTTP REQUEST FROM - http://175.17.5.27 - GET / - 6.431 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:13 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 1.091 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:13 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 1.085 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:13 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 1.139 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:15 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:15:15 - HTTP REQUEST FROM - http://175.17.5.27 - GET /image - 5.675 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:15 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 0.848 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:15 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 1.436 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:15 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 1.650 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:16 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:15:16 - HTTP REQUEST FROM - http://175.17.5.27 - GET /checkText - 6.648 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:16 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 0.954 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:16 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 1.131 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:16 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 1.113 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:18 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:15:18 - HTTP REQUEST FROM - http://175.17.5.27 - GET /checkImage - 9.581 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:18 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 1.413 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:18 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 1.746 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:18 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 1.615 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:44 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:15:44 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - QR Image
+2023-07-24 09:15:48 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - 00020101021238580016A00526628466257701080000041802030020315I90BYP17BC295VZ5204525153034185405150005802LA6009Vientiane63044FED
+2023-07-24 09:15:48 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - Success
+2023-07-24 09:15:48 - HTTP REQUEST FROM - http://175.17.5.27 - POST /uploadCheckImage - 3949.546 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:48 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 0.770 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:48 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 0.602 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:15:48 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 0.436 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:04 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:16:04 - HTTP REQUEST FROM - http://175.17.5.27 - GET /checkText - 9.701 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:04 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 0.754 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:04 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 1.356 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:04 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 1.302 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:10 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:16:10 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - QR PLayload
+2023-07-24 09:16:10 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - 00020101021238580016A00526628466257701080000041802030020315I90BYP17BC295VZ5204525153034185405150005802LA6009Vientiane63044FED
+2023-07-24 09:16:10 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - Success
+2023-07-24 09:16:10 - HTTP REQUEST FROM - http://175.17.5.27 - POST /uploadCheckText - 13.231 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:10 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 1.175 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:10 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 0.649 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:10 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 0.578 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:42 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:16:42 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - QR PLayload
+2023-07-24 09:16:42 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - 00020101021238580016A00526628466257701080000041802030020315I90BYP17BC295VZ5204525153034185405150005802LA6009Vientiane63044FED
+2023-07-24 09:16:42 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - Success
+2023-07-24 09:16:42 - HTTP REQUEST FROM - http://175.17.5.27 - POST /uploadCheckText - 10.747 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:42 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 1.876 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:42 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 2.521 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:16:42 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 0.866 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:17:10 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:17:10 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - QR PLayload
+2023-07-24 09:17:10 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - 00020101021138670016A00526628466257701082771041802030010324HEPZFUVAVBXVEWJFHKYDQROV53034185802LA63047B09
+2023-07-24 09:17:10 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - Success
+2023-07-24 09:17:10 - HTTP REQUEST FROM - http://175.17.5.27 - POST /uploadCheckText - 10.430 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:17:10 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 0.610 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:17:11 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 0.690 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:17:11 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 0.836 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:17:16 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:17:16 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - QR PLayload
+2023-07-24 09:17:16 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - 00020101021238580016A00526628466257701080000041802030020315I90BYP17BC295VZ5204525153034185405150005802LA6009Vientiane63044FED
+2023-07-24 09:17:16 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - Success
+2023-07-24 09:17:16 - HTTP REQUEST FROM - http://175.17.5.27 - POST /uploadCheckText - 6.502 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:17:16 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 0.949 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:17:16 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 0.997 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:17:16 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 1.005 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:19:54 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:19:54 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - QR PLayload
+2023-07-24 09:19:54 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - 00020101021238580016A00526628466257701080000041802030020315I90BYP17BC295VZ5204525153034185405150005802LA6009Vientiane63044FED
+2023-07-24 09:19:54 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - Success
+2023-07-24 09:19:54 - HTTP REQUEST FROM - http://175.17.5.27 - POST /uploadCheckText - 61.616 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:19:55 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 4.189 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:19:55 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 5.561 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:19:55 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 2.470 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:21:22 - HTTP ACCESS  FROM - http://175.17.5.27 - Accessing
+2023-07-24 09:21:22 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - QR PLayload
+2023-07-24 09:21:22 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - 00020101021238580016A00526628466257701080000041802030020315I90BYP17BC295VZ5204525153034185405150005802LA6009Vientiane63044FED
+2023-07-24 09:21:22 - HTTP REQUEST FROM - http://175.17.5.27 - POST - CONTENT - Success
+2023-07-24 09:21:22 - HTTP REQUEST FROM - http://175.17.5.27 - POST /uploadCheckText - 73.175 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:21:22 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 7.006 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:21:22 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 4.032 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-24 09:21:22 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 3.386 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-25 01:37:48 - HTTP ACCESS  FROM - http://175.17.4.26 - Accessing
+2023-07-25 01:37:48 - HTTP REQUEST FROM - http://175.17.4.26 - GET / - 6.693 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 01:37:48 - HTTP REQUEST FROM - http://175.17.4.26 - GET /stylesheets/style.css - 2.646 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 01:37:49 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 4.538 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 01:37:49 - HTTP REQUEST FROM - http://175.17.4.26 - GET /images/logo.png - 2.688 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 01:37:49 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 1.197 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 01:37:55 - HTTP ACCESS  FROM - http://175.17.4.26 - Accessing
+2023-07-25 01:37:55 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - QR PLayload
+2023-07-25 01:37:55 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - 00020101021138670016A00526628466257701082771041802030010324HEPZFUVAVBXVEWJFHKYDQROV53034185802LA63047B09
+2023-07-25 01:37:55 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - Success
+2023-07-25 01:37:55 - HTTP REQUEST FROM - http://175.17.4.26 - POST /uploadText - 5.579 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 01:37:55 - HTTP REQUEST FROM - http://175.17.4.26 - GET /stylesheets/style.css - 0.641 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 01:37:55 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 2.496 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 01:37:55 - HTTP REQUEST FROM - http://175.17.4.26 - GET /images/logo.png - 1.834 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 01:37:55 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.404 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 01:45:43 - HTTP ACCESS  FROM - http://175.17.4.20 - Accessing
+2023-07-25 01:45:43 - HTTP REQUEST FROM - http://175.17.4.20 - GET / - 5.441 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-25 01:45:43 - HTTP REQUEST FROM - http://175.17.4.20 - GET /stylesheets/style.css - 2.885 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-25 01:46:04 - HTTP REQUEST FROM - http://175.17.4.20 - GET /javascripts/script.js - 2.048 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-25 01:46:04 - HTTP REQUEST FROM - http://175.17.4.20 - GET /javascripts/script.js - 2.042 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-25 01:46:04 - HTTP REQUEST FROM - http://175.17.4.20 - GET /images/logo.png - 2.081 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-25 01:46:19 - HTTP ACCESS  FROM - http://175.17.4.20 - Accessing
+2023-07-25 01:46:19 - HTTP REQUEST FROM - http://175.17.4.20 - POST - CONTENT - QR PLayload
+2023-07-25 01:46:19 - HTTP REQUEST FROM - http://175.17.4.20 - POST - CONTENT - 00020101021138820016A00526628466257701087008041802030020324qc9oYzcwh3+Simap5MCrdg==1011856102220885204593353034185920Vilasack Chanthavong5802LA6015Vientiane Capit62150211020595364616304EF32
+2023-07-25 01:46:19 - HTTP REQUEST FROM - http://175.17.4.20 - POST - CONTENT - Success
+2023-07-25 01:46:19 - HTTP REQUEST FROM - http://175.17.4.20 - POST /uploadText - 12.121 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-25 01:46:19 - HTTP REQUEST FROM - http://175.17.4.20 - GET /stylesheets/style.css - 1.344 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-25 01:46:19 - HTTP REQUEST FROM - http://175.17.4.20 - GET /javascripts/script.js - 1.796 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-25 01:46:19 - HTTP REQUEST FROM - http://175.17.4.20 - GET /images/logo.png - 2.543 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-25 01:46:19 - HTTP REQUEST FROM - http://175.17.4.20 - GET /javascripts/script.js - 1.325 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-25 04:38:31 - HTTP ACCESS  FROM - http://175.17.4.26 - Accessing
+2023-07-25 04:38:31 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 6.700 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 04:38:31 - HTTP REQUEST FROM - http://175.17.4.26 - GET /favicon.ico - 11.453 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 04:40:36 - HTTP ACCESS  FROM - http://175.17.4.26 - Accessing
+2023-07-25 04:40:36 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 5.708 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 06:33:41 - HTTP ACCESS  FROM - http://175.17.4.26 - Accessing
+2023-07-25 06:33:41 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 3.305 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 06:34:20 - HTTP ACCESS  FROM - http://175.17.4.13 - Accessing
+2023-07-25 06:34:20 - HTTP REQUEST FROM - http://175.17.4.13 - GET / - 22.659 ms - "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"
+2023-07-25 06:34:20 - HTTP REQUEST FROM - http://175.17.4.13 - GET /stylesheets/style.css - 3.796 ms - "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"
+2023-07-25 06:34:20 - HTTP REQUEST FROM - http://175.17.4.13 - GET /images/logo.png - 7.270 ms - "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"
+2023-07-25 06:34:20 - HTTP REQUEST FROM - http://175.17.4.13 - GET /javascripts/script.js - 0.877 ms - "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"
+2023-07-25 06:34:45 - HTTP ACCESS  FROM - http://175.17.4.26 - Accessing
+2023-07-25 06:34:45 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.376 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 06:35:31 - HTTP ACCESS  FROM - http://175.17.4.26 - Accessing
+2023-07-25 06:35:31 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 0.815 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 06:39:00 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 06:39:00 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 5.171 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 07:13:35 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 07:13:35 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.692 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 07:21:14 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 07:21:14 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 0.941 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 07:38:30 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 07:38:30 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 4.626 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:02:33 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 08:02:33 - HTTP REQUEST FROM - http://175.17.4.26 - GET / - 16.277 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:02:33 - HTTP REQUEST FROM - http://175.17.4.26 - GET /stylesheets/style.css - 0.916 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:02:33 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.568 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:02:33 - HTTP REQUEST FROM - http://175.17.4.26 - GET /images/logo.png - 0.467 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:02:34 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.522 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:13:49 - HTTP REQUEST FROM - http://175.17.4.26 - GET /log/info - 9.126 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:13:57 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs/info - 1.460 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:14:07 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 08:14:07 - HTTP REQUEST FROM - http://175.17.4.26 - GET / - 9.560 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:14:08 - HTTP REQUEST FROM - http://175.17.4.26 - GET /stylesheets/style.css - 0.990 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:14:08 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.468 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:14:08 - HTTP REQUEST FROM - http://175.17.4.26 - GET /images/logo.png - 0.368 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:14:09 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.482 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:14:15 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs/info - 0.839 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 08:14:28 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 08:14:28 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs/ - 1.260 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:08:55 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:08:55 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.689 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:16:54 - HTTP REQUEST FROM - http://175.17.5.27 - Accessing
+2023-07-25 09:16:54 - HTTP REQUEST FROM - http://175.17.5.27 - GET / - 13.209 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-25 09:16:55 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 1.370 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-25 09:16:55 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 1.373 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-25 09:16:55 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 1.513 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-25 09:17:01 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:17:01 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.222 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:17:04 - HTTP REQUEST FROM - http://175.17.5.27 - Accessing
+2023-07-25 09:17:04 - HTTP REQUEST FROM - http://175.17.5.27 - GET /image - 9.407 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-25 09:17:04 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 1.095 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-25 09:17:04 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 1.741 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-25 09:17:04 - HTTP REQUEST FROM - http://175.17.5.27 - GET /images/logo.png - 2.674 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43"
+2023-07-25 09:17:04 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:17:04 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.327 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:17:10 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:17:10 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.073 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:17:12 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:17:12 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.456 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:17:17 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:17:17 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.018 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:17:43 - HTTP REQUEST FROM - http://192.168.0.210 - Accessing
+2023-07-25 09:17:43 - HTTP REQUEST FROM - http://192.168.0.210 - GET / - 10.039 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:17:43 - HTTP REQUEST FROM - http://192.168.0.210 - GET /javascripts/script.js - 2.977 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:17:43 - HTTP REQUEST FROM - http://192.168.0.210 - GET /stylesheets/style.css - 5.148 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:17:43 - HTTP REQUEST FROM - http://192.168.0.210 - GET /images/logo.png - 6.630 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:17:44 - HTTP REQUEST FROM - http://192.168.0.210 - GET /mainifest/manifest.json - 3.491 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:17:48 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:17:48 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.556 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:18:17 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:18:17 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.414 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:18:21 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:18:21 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 0.894 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:18:41 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:18:41 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.054 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:19:01 - HTTP REQUEST FROM - http://192.168.0.230 - Accessing
+2023-07-25 09:19:01 - HTTP REQUEST FROM - http://192.168.0.230 - GET / - 9.346 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/115.0.5790.130 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:01 - HTTP REQUEST FROM - http://192.168.0.230 - GET /stylesheets/style.css - 2.037 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/115.0.5790.130 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:01 - HTTP REQUEST FROM - http://192.168.0.230 - GET /javascripts/script.js - 2.811 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/115.0.5790.130 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:01 - HTTP REQUEST FROM - http://192.168.0.230 - GET /images/logo.png - 2.882 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/115.0.5790.130 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:02 - HTTP REQUEST FROM - http://192.168.0.230 - Accessing
+2023-07-25 09:19:02 - HTTP REQUEST FROM - http://192.168.0.230 - GET / - 8.267 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/115.0.5790.130 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:02 - HTTP REQUEST FROM - http://192.168.0.230 - GET /stylesheets/style.css - 1.913 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/115.0.5790.130 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:02 - HTTP REQUEST FROM - http://192.168.0.230 - GET /images/logo.png - 2.578 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/115.0.5790.130 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:02 - HTTP REQUEST FROM - http://192.168.0.230 - GET /javascripts/script.js - 3.483 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/115.0.5790.130 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:03 - HTTP REQUEST FROM - http://192.168.0.230 - GET /mainifest/manifest.json - 1.705 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/115.0.5790.130 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:06 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:19:06 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.572 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:19:12 - HTTP REQUEST FROM - http://192.168.0.230 - GET /apple-touch-icon-precomposed.png - 5.993 ms - "com.apple.WebKit.Networking/8615.2.9.10.6 CFNetwork/1408.0.4 Darwin/22.5.0"
+2023-07-25 09:19:12 - HTTP REQUEST FROM - http://192.168.0.230 - GET /favicon.ico - 6.772 ms - "com.apple.WebKit.Networking/8615.2.9.10.6 CFNetwork/1408.0.4 Darwin/22.5.0"
+2023-07-25 09:19:12 - HTTP REQUEST FROM - http://192.168.0.230 - GET /apple-touch-icon.png - 8.141 ms - "com.apple.WebKit.Networking/8615.2.9.10.6 CFNetwork/1408.0.4 Darwin/22.5.0"
+2023-07-25 09:19:12 - HTTP REQUEST FROM - http://192.168.0.230 - Accessing
+2023-07-25 09:19:12 - HTTP REQUEST FROM - http://192.168.0.230 - GET / - 11.635 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0"
+2023-07-25 09:19:21 - HTTP REQUEST FROM - http://192.168.0.230 - GET /apple-touch-icon-precomposed.png - 6.793 ms - "com.apple.WebKit.Networking/8615.2.9.10.6 CFNetwork/1408.0.4 Darwin/22.5.0"
+2023-07-25 09:19:21 - HTTP REQUEST FROM - http://192.168.0.230 - GET /apple-touch-icon.png - 8.631 ms - "com.apple.WebKit.Networking/8615.2.9.10.6 CFNetwork/1408.0.4 Darwin/22.5.0"
+2023-07-25 09:19:21 - HTTP REQUEST FROM - http://192.168.0.230 - GET /favicon.ico - 10.252 ms - "com.apple.WebKit.Networking/8615.2.9.10.6 CFNetwork/1408.0.4 Darwin/22.5.0"
+2023-07-25 09:19:21 - HTTP REQUEST FROM - http://192.168.0.230 - Accessing
+2023-07-25 09:19:21 - HTTP REQUEST FROM - http://192.168.0.230 - GET / - 8.075 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0"
+2023-07-25 09:19:23 - HTTP REQUEST FROM - http://192.168.0.230 - GET /apple-touch-icon-120x120-precomposed.png - 3.176 ms - "SafariViewService/8615.2.9.10.4 CFNetwork/1408.0.4 Darwin/22.5.0"
+2023-07-25 09:19:23 - HTTP REQUEST FROM - http://192.168.0.230 - GET /images/icon.png - 5.527 ms - "SafariViewService/8615.2.9.10.4 CFNetwork/1408.0.4 Darwin/22.5.0"
+2023-07-25 09:19:24 - HTTP REQUEST FROM - http://192.168.0.230 - GET /apple-touch-icon-120x120.png - 2.483 ms - "SafariViewService/8615.2.9.10.4 CFNetwork/1408.0.4 Darwin/22.5.0"
+2023-07-25 09:19:24 - HTTP REQUEST FROM - http://192.168.0.230 - GET /apple-touch-icon.png - 2.213 ms - "SafariViewService/8615.2.9.10.4 CFNetwork/1408.0.4 Darwin/22.5.0"
+2023-07-25 09:19:24 - HTTP REQUEST FROM - http://192.168.0.230 - GET /apple-touch-icon.png - 3.135 ms - "SafariViewService/8615.2.9.10.4 CFNetwork/1408.0.4 Darwin/22.5.0"
+2023-07-25 09:19:31 - HTTP REQUEST FROM - http://192.168.0.230 - Accessing
+2023-07-25 09:19:31 - HTTP REQUEST FROM - http://192.168.0.230 - GET / - 8.141 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:32 - HTTP REQUEST FROM - http://192.168.0.230 - GET /stylesheets/style.css - 2.696 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:32 - HTTP REQUEST FROM - http://192.168.0.230 - GET /javascripts/script.js - 0.756 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:32 - HTTP REQUEST FROM - http://192.168.0.230 - GET /images/logo.png - 1.410 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:32 - HTTP REQUEST FROM - http://192.168.0.230 - GET /mainifest/manifest.json - 1.860 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:35 - HTTP REQUEST FROM - http://192.168.0.230 - Accessing
+2023-07-25 09:19:35 - HTTP REQUEST FROM - http://192.168.0.230 - GET /image - 8.794 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:35 - HTTP REQUEST FROM - http://192.168.0.230 - GET /mainifest/manifest.json - 1.802 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:35 - HTTP REQUEST FROM - http://192.168.0.230 - GET /stylesheets/style.css - 2.101 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:35 - HTTP REQUEST FROM - http://192.168.0.230 - GET /images/logo.png - 0.964 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:35 - HTTP REQUEST FROM - http://192.168.0.230 - GET /javascripts/script.js - 0.989 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:42 - HTTP REQUEST FROM - http://192.168.0.230 - Accessing
+2023-07-25 09:19:43 - HTTP REQUEST FROM - http://192.168.0.230 - POST - CONTENT - QR Image
+2023-07-25 09:19:43 - HTTP REQUEST FROM - http://192.168.0.230 - POST - CONTENT - 00020101021138670016A00526628466257701082771041802030010324BWNEICKZGHARDBLEPEPEEWWO53034185802LA6304DBF2
+2023-07-25 09:19:43 - HTTP REQUEST FROM - http://192.168.0.230 - POST - CONTENT - Success
+2023-07-25 09:19:43 - HTTP REQUEST FROM - http://192.168.0.230 - POST /uploadImage - 1014.202 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:44 - HTTP REQUEST FROM - http://192.168.0.230 - GET /stylesheets/style.css - 1.252 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:44 - HTTP REQUEST FROM - http://192.168.0.230 - GET /mainifest/manifest.json - 0.931 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:44 - HTTP REQUEST FROM - http://192.168.0.230 - GET /images/logo.png - 0.737 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:44 - HTTP REQUEST FROM - http://192.168.0.230 - GET /javascripts/script.js - 0.972 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:19:47 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:19:47 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 0.911 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:20:30 - HTTP REQUEST FROM - http://192.168.0.210 - Accessing
+2023-07-25 09:20:30 - HTTP REQUEST FROM - http://192.168.0.210 - GET / - 3.996 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:20:30 - HTTP REQUEST FROM - http://192.168.0.210 - GET /javascripts/script.js - 0.891 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:20:30 - HTTP REQUEST FROM - http://192.168.0.210 - GET /stylesheets/style.css - 1.475 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:20:30 - HTTP REQUEST FROM - http://192.168.0.210 - GET /mainifest/manifest.json - 2.406 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:20:30 - HTTP REQUEST FROM - http://192.168.0.210 - GET /images/logo.png - 0.971 ms - "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Mobile/15E148 Safari/604.1"
+2023-07-25 09:20:33 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:20:33 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 1.571 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:22:52 - HTTP REQUEST FROM - http://192.168.0.206 - Accessing
+2023-07-25 09:22:53 - HTTP REQUEST FROM - http://192.168.0.206 - GET / - 11.170 ms - "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"
+2023-07-25 09:22:53 - HTTP REQUEST FROM - http://192.168.0.206 - GET /stylesheets/style.css - 3.427 ms - "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"
+2023-07-25 09:22:54 - HTTP REQUEST FROM - http://192.168.0.206 - GET /javascripts/script.js - 1.492 ms - "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"
+2023-07-25 09:22:54 - HTTP REQUEST FROM - http://192.168.0.206 - GET /images/logo.png - 1.033 ms - "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"
+2023-07-25 09:23:00 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:23:00 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 0.940 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:23:33 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-25 09:23:33 - HTTP REQUEST FROM - http://175.17.4.26 - GET / - 3.118 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:23:33 - HTTP REQUEST FROM - http://175.17.4.26 - GET /stylesheets/style.css - 0.407 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:23:33 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.289 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:23:33 - HTTP REQUEST FROM - http://175.17.4.26 - GET /images/logo.png - 0.465 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:23:34 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.502 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-25 09:24:46 - HTTP REQUEST FROM - http://175.17.4.26 - GET /logs - 3.741 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:13:13 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-26 02:13:13 - HTTP REQUEST FROM - http://175.17.4.26 - GET / - 19.999 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:13:13 - HTTP REQUEST FROM - http://175.17.4.26 - GET /stylesheets/style.css - 1.186 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:13:13 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 1.222 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:13:13 - HTTP REQUEST FROM - http://175.17.4.26 - GET /images/logo.png - 2.536 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:13:14 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 1.253 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:13:16 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-26 02:13:16 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - QR PLayload
+2023-07-26 02:13:16 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - 00020101021238590016A00526628466257701082771041802030020316mch5949fa044ed9d52045732530341854095000000005802LA5910Bunny test6003VTE62900115INVOICETEST00560515INVOICETEST0056070400010840test special charactor &* {}[],=-().+;'/63048AF5---+
+2023-07-26 02:13:51 - HTTP REQUEST FROM - http://175.17.4.26 - POST /uploadText - - ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:13:51 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-26 02:13:51 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - QR PLayload
+2023-07-26 02:13:51 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - 00020101021138670016A00526628466257701080000041802030010324qc9_zcwh3+Sim@ap5M$Crdg=53034185802LA6304B6D5
+2023-07-26 02:13:51 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - Success
+2023-07-26 02:13:51 - HTTP REQUEST FROM - http://175.17.4.26 - POST /uploadText - 6.857 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:13:51 - HTTP REQUEST FROM - http://175.17.4.26 - GET /stylesheets/style.css - 0.546 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:13:51 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 1.594 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:13:51 - HTTP REQUEST FROM - http://175.17.4.26 - GET /images/logo.png - 1.569 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:13:51 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.739 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:15:20 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-26 02:15:20 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - QR PLayload
+2023-07-26 02:15:20 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - 00020101021138670016A00526628466257701080000041802030010324qc9_zcwh3+Sim@ap5M$Crdg=53034185802LA6304B6D5
+2023-07-26 02:15:20 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - Success
+2023-07-26 02:15:20 - HTTP REQUEST FROM - http://175.17.4.26 - POST /uploadText - 5.436 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:15:20 - HTTP REQUEST FROM - http://175.17.4.26 - GET /stylesheets/style.css - 0.592 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:15:20 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.993 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:15:20 - HTTP REQUEST FROM - http://175.17.4.26 - GET /images/logo.png - 1.160 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:15:20 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.434 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:20:28 - HTTP REQUEST FROM - http://175.17.4.20 - GET /uploadText - 7.732 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:20:39 - HTTP REQUEST FROM - http://175.17.4.20 - GET /uploadText - 3.374 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:20:40 - HTTP REQUEST FROM - http://175.17.4.20 - GET /uploadText - 2.650 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:23 - HTTP REQUEST FROM - http://175.17.4.20 - Accessing
+2023-07-26 02:21:23 - HTTP REQUEST FROM - http://175.17.4.20 - GET / - 8.801 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:23 - HTTP REQUEST FROM - http://175.17.4.20 - GET /stylesheets/style.css - 1.486 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:23 - HTTP REQUEST FROM - http://175.17.4.20 - GET /javascripts/script.js - 1.372 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:23 - HTTP REQUEST FROM - http://175.17.4.20 - GET /images/logo.png - 1.498 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:34 - HTTP REQUEST FROM - http://175.17.4.20 - Accessing
+2023-07-26 02:21:34 - HTTP REQUEST FROM - http://175.17.4.20 - GET /image - 6.405 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:34 - HTTP REQUEST FROM - http://175.17.4.20 - GET /stylesheets/style.css - 0.538 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:34 - HTTP REQUEST FROM - http://175.17.4.20 - GET /javascripts/script.js - 1.471 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:34 - HTTP REQUEST FROM - http://175.17.4.20 - GET /images/logo.png - 1.727 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:36 - HTTP REQUEST FROM - http://175.17.4.20 - Accessing
+2023-07-26 02:21:36 - HTTP REQUEST FROM - http://175.17.4.20 - GET / - 6.754 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:36 - HTTP REQUEST FROM - http://175.17.4.20 - GET /stylesheets/style.css - 0.777 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:36 - HTTP REQUEST FROM - http://175.17.4.20 - GET /images/logo.png - 1.020 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:21:36 - HTTP REQUEST FROM - http://175.17.4.20 - GET /javascripts/script.js - 1.370 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+2023-07-26 02:41:05 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-26 02:41:05 - HTTP REQUEST FROM - http://175.17.4.26 - GET /image - 5.287 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:41:05 - HTTP REQUEST FROM - http://175.17.4.26 - GET /stylesheets/style.css - 0.535 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:41:05 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.435 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:41:05 - HTTP REQUEST FROM - http://175.17.4.26 - GET /images/logo.png - 0.345 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 02:41:06 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.423 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 03:38:06 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-26 03:38:06 - HTTP REQUEST FROM - http://175.17.4.26 - GET / - 2.903 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 03:38:06 - HTTP REQUEST FROM - http://175.17.4.26 - GET /stylesheets/style.css - 2.502 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 03:38:06 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.552 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 03:38:06 - HTTP REQUEST FROM - http://175.17.4.26 - GET /images/logo.png - 0.607 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 03:38:09 - HTTP REQUEST FROM - http://175.17.4.26 - Accessing
+2023-07-26 03:38:09 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - QR PLayload
+2023-07-26 03:38:09 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - 00020101021138670016A00526628466257701080000041802030010324qc9_zcwh3+Sim@ap5M$Crdg=53034185802LA6304B6D5
+2023-07-26 03:38:09 - HTTP REQUEST FROM - http://175.17.4.26 - POST - CONTENT - Success
+2023-07-26 03:38:09 - HTTP REQUEST FROM - http://175.17.4.26 - POST /uploadText - 3.224 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 03:38:09 - HTTP REQUEST FROM - http://175.17.4.26 - GET /stylesheets/style.css - 0.491 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 03:38:09 - HTTP REQUEST FROM - http://175.17.4.26 - GET /javascripts/script.js - 0.568 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-26 03:38:09 - HTTP REQUEST FROM - http://175.17.4.26 - GET /images/logo.png - 0.438 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:33 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:33 - HTTP REQUEST FROM - http://::1 - GET / - 12.095 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:33 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.926 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:33 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.818 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:33 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.573 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:34 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.419 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:34 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 0.676 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:34 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.294 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:34 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.319 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:35 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:35 - HTTP REQUEST FROM - http://::1 - GET /image - 3.551 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:35 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.373 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:35 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.559 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:35 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.527 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:35 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.423 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:35 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 0.324 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:35 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.325 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:37 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:37 - HTTP REQUEST FROM - http://::1 - GET /checkText - 4.838 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:37 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.347 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:37 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.329 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:37 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.314 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:37 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.342 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:37 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 0.551 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:37 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.425 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:38 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:38 - HTTP REQUEST FROM - http://::1 - GET /checkImage - 4.464 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:38 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.269 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:38 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.349 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:38 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.423 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:38 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.281 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:39 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 1.621 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:39 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.405 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:39 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:39 - HTTP REQUEST FROM - http://::1 - GET /image - 2.519 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:39 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.728 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:39 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.297 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:39 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.386 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:39 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.349 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:40 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 0.405 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:40 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.312 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:40 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:40 - HTTP REQUEST FROM - http://::1 - GET / - 2.269 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:40 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.362 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:40 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.330 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:40 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.349 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:40 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.347 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:40 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 0.780 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:40 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.361 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:42 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:42 - HTTP REQUEST FROM - http://::1 - GET /image - 2.088 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:42 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.464 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:42 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.295 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:42 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.340 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:42 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.311 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:42 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 0.312 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:42 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.478 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:43 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:43 - HTTP REQUEST FROM - http://::1 - GET /image - 3.002 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:43 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.310 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:43 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.394 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:43 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.473 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:43 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.457 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:43 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 0.327 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:43 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.430 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:44 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:44 - HTTP REQUEST FROM - http://::1 - GET /checkText - 3.331 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:44 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.415 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:44 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.667 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:44 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.347 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:44 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.363 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:44 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 0.366 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:44 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.328 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:46 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:46 - HTTP REQUEST FROM - http://::1 - GET /image - 2.258 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:46 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.364 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:46 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.321 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:46 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.340 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:46 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.361 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:46 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 0.322 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:46 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.328 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:47 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:47 - HTTP REQUEST FROM - http://::1 - GET / - 2.514 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:47 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.349 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:47 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.342 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:47 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.461 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:47 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.336 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:47 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 0.334 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:47 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.297 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:48 - HTTP REQUEST FROM - http://::1 - Accessing
+2023-07-28 03:26:48 - HTTP REQUEST FROM - http://::1 - GET /checkText - 3.414 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:48 - HTTP REQUEST FROM - http://::1 - GET /stylesheets/style.css - 0.600 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:48 - HTTP REQUEST FROM - http://::1 - GET /images/logo.png - 0.337 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:48 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 0.422 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:48 - HTTP REQUEST FROM - http://::1 - GET /javascripts/script.js - 1.884 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:49 - HTTP REQUEST FROM - http://::1 - GET /mainifest/manifest.json - 0.277 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-28 03:26:49 - HTTP REQUEST FROM - http://::1 - GET /images/icon.png - 0.350 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-31 01:23:34 - HTTP REQUEST FROM - http://175.17.5.27 - GET /stylesheets/style.css - 3.922 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+2023-07-31 01:23:34 - HTTP REQUEST FROM - http://175.17.5.27 - GET /javascripts/script.js - 3.691 ms - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"

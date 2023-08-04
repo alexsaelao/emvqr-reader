@@ -1,0 +1,33 @@
+{
+  "name": "emvqrcode",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon ./bin/www",
+    "start": "node ./bin/www",
+    "pm2:start": "pm2 start ./bin/www --name QR_PROD -o ./out.log -e ./err.log",
+    "pm2:stop": "pm2 stop QR_PROD",
+    "pm2:restart": "pm2 restart QR_PROD",
+    "pm2:reload": "pm2 reload QR_PROD"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "easy-crc": "^1.1.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "file-stream-rotator": "^1.0.0",
+    "flowbite": "^1.5.4",
+    "html5-qrcode": "^2.3.8",
+    "http-errors": "~1.6.3",
+    "jimp": "^0.22.8",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "qrcode-reader": "^1.0.4",
+    "steplix-emv-qrcps": "^0.0.8",
+    "steplix-emvqr": "^0.2.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}

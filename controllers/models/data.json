@@ -1,0 +1,12 @@
+{
+  "img": {
+    "fieldname": "img",
+    "originalname": "WhatsApp Image 2022-10-25 at 13.30.16.jpeg",
+    "encoding": "7bit",
+    "mimetype": "image/jpeg",
+    "destination": "controllers/functions/imgs",
+    "filename": "qr.jpeg",
+    "path": "controllers\\functions\\imgs\\qr.jpeg",
+    "size": 144124
+  }
+}
