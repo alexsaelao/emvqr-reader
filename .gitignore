@@ -1,4 +1,4 @@
-node_modules
+node_modules/
 err.log
 out.log
-log
+logs/
