@@ -23,6 +23,7 @@
     "morgan": "~1.9.1",
     "multer": "^1.4.5-lts.1",
     "nodemon": "^2.0.20",
+    "pm2": "^5.3.0",
     "qrcode-reader": "^1.0.4",
     "steplix-emv-qrcps": "^0.0.8",
     "steplix-emvqr": "^0.2.3"
